@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Estet es mi repositorio del proyecto giftexpertapp de React
+Este es mi repositorio del proyecto giftexpertapp de React
